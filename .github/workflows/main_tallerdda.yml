@@ -52,4 +52,4 @@ jobs:
           app-name: 'TallerDDA'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_03E1B0B61BC14F25BD237BD7629F370E }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_48EED095917F4D969DA6DFCB1065A6C5 }}
